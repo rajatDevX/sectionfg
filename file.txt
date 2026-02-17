@@ -1,3 +1,1 @@
-this is my command
-this is my first class of full stack dev
-this is my first class of full stack DEV
+WRite insdie this file
